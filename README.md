@@ -1,0 +1,1 @@
+# human_activity_recognition_accelorometer_data_cnn
